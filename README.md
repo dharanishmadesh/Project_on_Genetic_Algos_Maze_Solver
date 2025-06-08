@@ -1,4 +1,4 @@
-# 🤖 Genetic Algorithm for Maze Solving
+# 🤖 Genetic Algorithm for Maze Solvin
 
 🧩 This project implements a **Genetic Algorithm (GA) to solve a maze** by evolving a population of possible paths towards the optimal solution. The algorithm uses selection, mutation, and crossover to navigate the maze efficiently.
 
